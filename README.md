@@ -6,7 +6,4 @@ The purpose of this project was to do a Stock Analysis on one specific Stock Ind
 # Results
 Following a basic nested loop approach to calculating the two values (total volume and return), the performance of the file came out to approximately 0.61 seconds (as shown in the image here:
 
-![VBA_Module_2018](Resources/VBA_Module_2018.png)
-
-
 ![VBA_Module_2018](Resources/VBA_Module_2018.PNG)
