@@ -9,4 +9,4 @@ Following a basic nested loop approach to calculating the two values (total volu
 ![VBA_Modules_2018](Resources/VBA_Modules_2018.png)
 
 
-![VBA_Modules_2018](Resources/VBA_Modules_2018.png)
+![VBA_Modules_2018](Resources/VBA_Modules_2018.PNG)
